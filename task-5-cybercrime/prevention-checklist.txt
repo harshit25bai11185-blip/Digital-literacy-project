@@ -1,0 +1,20 @@
+Prevention Checklist: Stay Safe Online
+_______________________________________
+
+As digital citizens, it is crucial to stay vigilant. Here are 8 specific, actionable tips to protect yourself and your finances online:
+
+Understand UPI PIN Mechanics: Never enter your UPI PIN to receive money. Your PIN is strictly for sending funds or checking your account balance.
+
+Verify the Receiver: Always double-check the VPA (Virtual Payment Address) and the registered name displayed on your UPI app before hitting 'pay'.
+
+Beware of Urgent Requests: Scammers create a false sense of urgency (e.g., "Send money now or the deal is off!"). Take a breath and independently verify any urgent requests for money, even if they seem to come from a friend's compromised social media account.
+
+Avoid Public Wi-Fi for Transactions: Never conduct banking or UPI transactions over open, unsecured public Wi-Fi networks in cafes, hostels, or college campuses. Use your secure cellular data instead.
+
+Secure Your Devices: Keep your smartphone's operating system and payment apps updated to the latest versions to patch known security vulnerabilities.
+
+Use Strong, Unique Locks: Avoid using birthdates or phone numbers for your banking or app passwords. Enable a biometric lock (fingerprint/Face ID) on all payment apps for an extra layer of physical security.
+
+Be Skeptical of Unsolicited Links: Do not click on links in SMS or WhatsApp messages claiming your bank account/SIM card will be blocked, or offering unexpected cashback rewards.
+
+Report Incidents Immediately: If you fall victim to a cybercrime, acting quickly can sometimes freeze the transaction. Report the incident immediately via the National Cyber Crime Reporting Portal at [suspicious link removed] or call the National Helpline 1930.

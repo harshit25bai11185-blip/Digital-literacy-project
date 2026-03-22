@@ -1,0 +1,11 @@
+Case Study: UPI Payment Fraud
+_____________________________
+
+UPI (Unified Payments Interface) fraud is a cybercrime that involves deceiving individuals into authorizing fraudulent, irreversible money transfers from their linked bank accounts. This scam heavily targets college students and young adults in India who frequently use digital payment apps for daily transactions but may overlook crucial security protocols during rushed online interactions.
+
+In a realistic scenario, a college student named Rahul lists a used engineering textbook on a popular peer-to-peer online marketplace. A "buyer" quickly contacts him, agreeing to the asking price without any negotiation. To build false trust, the scammer sends a small amount (e.g., ₹10) via UPI to "verify the account details."
+
+Next, the scammer claims they are using a specialized merchant account and sends a "receive payment" request or a custom QR code to Rahul for the full amount of ₹1500. The scammer urgently insists that Rahul must enter his secret UPI PIN to "authenticate the incoming credit." Unaware that a UPI PIN is only required to send money—never to receive it—Rahul enters his PIN. Instantly, ₹1500 is deducted from his own account.
+
+The scammer immediately blocks Rahul's number. The consequences are immediate financial loss, which is highly disruptive for a student managing a tight budget, accompanied by severe anxiety and a lasting loss of trust in digital financial platforms.
+
