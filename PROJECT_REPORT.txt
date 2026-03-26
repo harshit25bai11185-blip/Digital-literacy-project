@@ -1,0 +1,47 @@
+___________________________	       PROJECT REPORT
+NAME : HARSHIT VISHWAKARMA |
+REG NO. : 25BAI11185	   |
+___________________________|_______________________________________________________________
+
+
+TASK 1:
+4) Tools used: Canva
+
+My design is a simple one, it just incorporates 3 of the topics that were given to us as part of the project task-1. I have chosen the following topics out of the given 5:
+Useful digital tools for students
+Safe internet practices
+what digital literacy is?
+
+I have added some logos  of some very useful digital tools for students that were taught to us in the Digital literacy course viz.. Canva, Miro, Cool Text and Prezi. each of these are unique in their own way.
+
+What I found difficult:
+One thing I found interesting while making this was figuring out how to condense broad cybersecurity guidelines into clear, bite-sized bullet points without losing their importance. Balancing the informative text with clean visuals was a rewarding challenge to ensure the slide remained engaging yet educational.
+
+TASK 2:
+9) I have chosen LinkedIn, GitHub and Stack overflow.
+
+LinkedIn is the premier professional networking platform. Over the next four years, I plan to use it to build my personal brand, connect with industry professionals, and showcase my academic milestones.It will be my primary tool for discovering internships and securing a full-time role after graduation.
+
+GitHub is essential for version control and collaborative software development. I will use it as a live portfolio to host my coursework and personal projects. By consistently committing code over the next four years, I aim to demonstrate my technical growth, collaborate with peers, and eventually contribute to open-source projects.
+
+Stack Overflow is a community-driven Q&A platform for programmers. Initially, I will use it to troubleshoot complex coding issues and learn from experienced developers. As my skills mature over the next four years, I plan to transition from asking questions to answering them, building a strong technical reputation, and giving back to the developer community.
+
+TASK 3: 
+15) I primarily utilized Google Workspace platforms, specifically Google Forms and Google Sheets. The main thing I built was a functional 'Digital Literacy Awareness Quiz' designed for my batchmates. Through this exercise, I practiced structuring digital assessments by incorporating varied question types, including multiple-choice and short-answer formats. Furthermore, I practiced data management by linking the Form directly to a Google Sheet to automatically capture, organize, and view the incoming response data in real-time.
+
+Learning to effectively use these tools will be highly beneficial academically. Google Forms provides an incredibly efficient method for gathering primary data for research papers, conducting peer surveys, or organizing group project logistics. The seamless integration with Google Sheets means I can easily sort, filter, and analyze the collected data without manual data entry. Mastering this collaborative ecosystem streamlines data collection and group work, which are essential components of modern academic research and continuous digital literacy.
+
+TASK 4:
+18) A common problem caused by poor digital communication is the "vague delegation" issue. In a hypothetical scenario, a student project team is finalizing a presentation via group chat. One member quickly types, "I'll handle the final slides." The sender means they will write the concluding slides. However, the rest of the team interprets this to mean the sender is formatting the entire final deck. Consequently, no one edits the main body, resulting in a disjointed, error-filled presentation and a poor grade.
+
+This issue stems from the lack of precision common in quick digital messages. To prevent this, the communication needed specific parameters. The sender should have stated, "I will draft the conclusion on slides 15-18." Furthermore, implementing a quick summary message outlining everyone's explicit responsibilities before logging off would have caught the misunderstanding early and ensured everyone was aligned.
+
+TASK 5:
+
+26) While researching cybercrime prevention for college students in India, what surprised me most was the sheer sophistication of social engineering tactics, particularly regarding UPI frauds. I had assumed most scams were obvious, but the realistic urgency created by scammers—such as fake messages about blocked bank accounts or impersonating friends in need on WhatsApp—makes it easy to see how people fall victim. I was also alarmed to learn that many people still do not realize that you never need to enter a UPI PIN to receive money, a misconception scammers frequently exploit.
+
+As a direct result of this research, the primary habit I will change is my casual approach to public Wi-Fi. Moving forward, I will strictly avoid accessing bank apps or making online transactions on open networks, reserving those activities for secure mobile data.
+
+
+
+
